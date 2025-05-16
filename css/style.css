@@ -265,3 +265,7 @@ footer {
   width: auto;
   height: 8px;
 }
+
+b {
+    font-weight: bold;
+}
